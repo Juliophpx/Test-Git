@@ -9,3 +9,7 @@ hello world!
 // comenzamos con la creacion del proyecto
 
 // creamos el archivo README.md
+
+// creamos el archivo .gitignores
+
+// creamos el archivo .env
